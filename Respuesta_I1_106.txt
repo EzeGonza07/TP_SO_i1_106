@@ -6,5 +6,5 @@ A) Si los veo porque hizo el git push
 B) Si, si agrego un archivo o cambio alguno los demás lo ven.
 
 Beta:
-C) 
-D) 
+C) si, los demás integrantes ven lo que sube beta
+D) nos comunicamos por el canal de discord 
