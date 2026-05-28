@@ -1,2 +1,10 @@
-Gonzalez Ezequiel
-Guzzo Iván
+Alfa: Gonzalez Ezequiel
+Beta: Guzzo Iván
+
+Alfa:
+A) Si los veo porque hizo el git push
+B) Si, si agrego un archivo o cambio alguno los demás lo ven.
+
+Beta:
+C) 
+D) 
