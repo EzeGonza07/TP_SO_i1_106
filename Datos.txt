@@ -1,3 +1,7 @@
 ivan gonzalo guzzo
 ip: 192.187.194.0
 hora: 11:10
+
+Gonzalez Ezequiel
+IP: 192.187.194.0
+Hora: 11:30
